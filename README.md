@@ -5,7 +5,7 @@ This Dart project is a simple Body Mass Index (BMI) calculator created as part o
 The BMI calculator takes user inputs such as name, weight, and height, and handles exceptions to ensure data integrity. It calculates the BMI and displays the result on the screen. Additionally, this project includes unit tests to verify its functionality.
 
 ## Learning Resources
-- [FlutterJourney](https://github.com/simonekn/DartJourney/tree/main): My personal Dart study repository.
+- [DartJourney](https://github.com/simonekn/DartJourney): My personal Dart study repository.
 - [My personal notebook - Portuguese](https://skn-programing.notion.site/Dart-Programming-40048615c0714a3dbefcc391371d9089): My personal notebook on Notion - only in Portuguese.
 - [Official Dart Website](https://dart.dev/): The official source for Dart documentation, tutorials, and news.
 - [DartPad](https://dartpad.dev/): An online editor for experimenting with Dart code.
