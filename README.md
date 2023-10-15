@@ -1,4 +1,4 @@
-# BMI Calculator - Dart Project"
+# BMI Calculator - Dart Project
 
 This Dart project is a simple Body Mass Index (BMI) calculator created as part of the [Dio (Digital Innovation One)](https://www.dio.me/en) course in partnership with the [Santander Scholarships program](https://www.becas-santander.com/pt_br/index.html). 
 
